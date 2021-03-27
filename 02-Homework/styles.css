@@ -1,0 +1,13 @@
+#startPage {
+    
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+
+#startButton {
+    color : white;
+    background-color : violet;
+    font-weight : bold;
+}
